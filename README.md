@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 **I’m currently working on:**<br>Building a multi‐platform system with Scrapy a solution for material waste in Argentina. (System architecture)<br>Maintaining a music startup called Astronomy. (Process automation and data visualization)<br><br>🤝 **I’m looking to collaborate on:**<br>Projects that make a positive impact in society.<br><br>⚡ **Fun fact:**<br>I enjoy playing music on my free time.
+**I’m looking to collaborate on:**<br>Projects that make a positive impact in society.<br><br>⚡ **Fun fact:**<br>I enjoy playing music on my free time.
 
 
 ## 🌐 Socials:
