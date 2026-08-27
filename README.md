@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 **I’m looking to collaborate on:**<br>Projects that make a positive impact in society.<br><br>⚡ **Fun fact:**<br>I enjoy playing music on my free time.
 
 
